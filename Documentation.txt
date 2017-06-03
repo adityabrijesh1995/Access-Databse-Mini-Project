@@ -1,7 +1,7 @@
  
  
  
-    // use following data
+    // use following details
 	 
 	   username : gravity11 or gravity12
 	   password : 1234
